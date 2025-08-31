@@ -41,6 +41,8 @@ int main() {
     else{
         printf("\nElement %d not found in the array\n", target);}
 
+    getchar();
+    getchar();
     return 0;
 }
 
